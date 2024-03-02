@@ -1,0 +1,7 @@
+INSERT INTO COURSE (ID, NAME, AUTHOR)
+
+VALUES(1, 'Learn AWS', 'in28minutes')
+
+SELECT * from COURSE
+
+DELETE from COURSE where ID=1
